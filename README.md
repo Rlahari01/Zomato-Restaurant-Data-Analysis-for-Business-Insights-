@@ -1,1 +1,128 @@
-# Zomato-Restaurant-Data-Analysis-for-Business-Insights-
+# 🍽️ Zomato Restaurant Data Analysis for Business Insights
+
+## 📌 Project Overview
+This project analyzes Zomato restaurant data to uncover actionable business insights using Python, Power BI, and data visualization techniques.  
+The objective is to understand customer preferences, pricing strategies, restaurant performance, and location-based trends to support data-driven decision-making in the food and hospitality industry.
+
+---
+
+## 🎯 Objectives
+- Analyze restaurant distribution across cities and locations  
+- Understand customer ratings and review patterns  
+- Identify pricing and affordability trends  
+- Compare online delivery vs dine-in performance  
+- Build interactive dashboards for business insights  
+
+---
+
+## 📂 Dataset Description
+The dataset contains restaurant-level information collected from Zomato, including:
+
+- Restaurant Name  
+- City & Location  
+- Cuisines  
+- Average Cost for Two  
+- Customer Ratings  
+- Votes / Reviews  
+- Online Delivery Availability  
+- Table Booking Availability  
+
+> The dataset is cleaned and preprocessed to handle missing values, duplicates, and inconsistent categories.
+
+---
+
+## 🛠️ Tools & Technologies Used
+
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="45" height="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="45" height="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="45" height="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg" width="45" height="45"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/power-bi.svg" width="45" height="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="45" height="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="45" height="45"/>
+</p>
+
+### 🔧 Purpose of Tools
+- **Python** – Data cleaning, preprocessing & EDA  
+- **Pandas & NumPy** – Data manipulation and analysis  
+- **Jupyter Notebook** – Exploratory analysis & documentation  
+- **Power BI** – Interactive dashboards & KPI reporting  
+- **Git & GitHub** – Version control & project hosting  
+
+---
+
+## 📊 Analysis Performed
+- Univariate analysis of ratings and cost  
+- Bivariate analysis (Cost vs Rating, Location vs Restaurants)  
+- Categorical analysis of cuisines and delivery options  
+- KPI calculation for business performance  
+
+---
+
+## 📈 Power BI Dashboard Highlights
+- City-wise restaurant distribution  
+- Rating and pricing segmentation  
+- Online delivery vs dine-in comparison  
+- Top cuisines by popularity  
+- Interactive filters for city, rating, and cost range  
+
+---
+
+## 🔍 Key Business Insights
+- High-priced restaurants do not always receive higher ratings  
+- Online delivery availability positively impacts customer ratings  
+- High restaurant density locations may have lower average ratings  
+- Cuisine preferences vary significantly across cities  
+
+---
+
+## 📁 Project Structure
+Zomato-Restaurant-Data-Analysis/
+
+
+|── Dataset
+
+|└── zomato_data.csv
+|── Notebooks 
+
+| └── zomato_analysis.ipynb
+
+|── PowerBI
+
+|└── zomato_dashboard.pbix
+
+
+| ── Images
+
+|└── dashboard_preview.png
+
+
+|└── README.md
+
+---
+
+## 🚀 How to Run the Project
+1. Clone the repository  
+   ```bash
+   git clone https://github.com/your-username/Zomato-Restaurant-Data-Analysis.git
+---
+📌 Use Cases
+
+Restaurant owners optimizing pricing and services
+
+Food-tech companies analyzing market trends
+
+Data analyst portfolio project
+
+Business intelligence reporting practice
+
+👤 Author
+
+R. Lahari
+Aspiring Data Analyst | Python | Power BI | SQL
+📍 India
+
+⭐ Acknowledgment
+
+Dataset inspired by publicly available Zomato restaurant data and used for educational and analytical purposes.
