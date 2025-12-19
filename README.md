@@ -80,27 +80,15 @@ The dataset contains restaurant-level information collected from Zomato, includi
 ## 📁 Project Structure
 Zomato-Restaurant-Data-Analysis/
 
+├── data                  # Dataset files
 
-|── Dataset
+├── notebooks             # Jupyter notebooks (.ipynb)
 
-|└── zomato_data.csv
-|── Notebooks 
+├── powerbi               # Power BI dashboard (.pbix)
 
-| └── zomato_analysis.ipynb
+├── visuals               # Charts and dashboard screenshots
 
-|── PowerBI
-
-|└── zomato_dashboard.pbix
-
-
-| ── Images
-
-|└── dashboard_preview.png
-
-
-|└── README.md
-
----
+├── README.md             # Project documentation
 
 ## 🚀 How to Run the Project
 1. Clone the repository  
@@ -121,8 +109,8 @@ Business intelligence reporting practice
 
 R. Lahari
 Aspiring Data Analyst | Python | Power BI | SQL
-📍 India
 
-⭐ Acknowledgment
+🔗 GitHub: https://github.com/Rlahari01/
+🔗 LinkedIn: https://www.linkedin.com/in/rachakonda-lahari
 
-Dataset inspired by publicly available Zomato restaurant data and used for educational and analytical purposes.
+⭐ If you find this project insightful, feel free to star the repository.
